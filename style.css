@@ -1,0 +1,13 @@
+.Zoom
+{
+  width: 50px;
+  height:fit-content;
+  background-color: green;
+  margin-top: 50%;
+  margin-left: 50%;
+}
+.Zoom:hover
+{
+  background-color: aqua;
+  transform: scale(1,3);
+}
